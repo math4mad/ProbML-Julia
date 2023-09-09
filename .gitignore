@@ -29,5 +29,8 @@ mnist_train.csv
 Icon?
 *.jls
 catboost_info/
-.原书代码/
+原书代码/
 
+two-dimension-descision-boundary
+iris-covarite-plots
+A Look at the Likelihood
